@@ -24,7 +24,7 @@
         <requirejs>
             {
                 "paths": {
-                    "metisMenu": "metismenu"
+                    "metisMenu": "metisMenu"
                 },
                 "shim": {
                     "metisMenu": ["bootstrap"]
